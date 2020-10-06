@@ -6,6 +6,9 @@
 <a href="https://medium.com/@venkatasailakshmi7">
   <img  alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://twitter.com/KONAVENKATASAI3">
+  <img align="left" alt="KONA VENKATA SAI LAKSHMI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <br />
 
 ### Are you Artificial Intelligence Enthusiast? Cool! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KONA-VENKATA-SAI-LAKSHMI.KONA-VENKATA-SAI-LAKSHMI&style=flat-square&color=0088cc)
