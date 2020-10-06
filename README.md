@@ -1,4 +1,4 @@
-<img src="https://github.com/KONA-VENKATA-SAI-LAKSHMI/KONA-VENKATA-SAI-LAKSHMI/blob/main/Automating.gif">
+<img  height="50" width="150" alt="" src="https://github.com/KONA-VENKATA-SAI-LAKSHMI/KONA-VENKATA-SAI-LAKSHMI/blob/main/Automating.gif">
 
 ## Hyy!! Developers 👋, I'm [KONA VENKATA SAI LAKSHMI!](https://github.com/KONA-VENKATA-SAI-LAKSHMI)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kona-venkata-sai-lakshmi-938842154/)
