@@ -54,7 +54,7 @@ I'm Artificial Intelligence Enthusiast! Graduate 🎓 from VIIT 🏛. I'm a pass
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary><b>🚀 Open Source Projects</b></summary>
 
   <br />
   <table>
@@ -65,7 +65,7 @@ I'm Artificial Intelligence Enthusiast! Graduate 🎓 from VIIT 🏛. I'm a pass
         <td><b>🍴 Forks</b></td>
         <td><b>🐛 Issues</b></td>
         <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
+        <td><b>💻 Language</b></td>
       </tr>
     </thead>
     <tbody>
