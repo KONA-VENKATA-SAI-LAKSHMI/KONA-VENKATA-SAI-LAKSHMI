@@ -13,7 +13,7 @@
 
 ### Are you Artificial Intelligence Enthusiast? Cool! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KONA-VENKATA-SAI-LAKSHMI.KONA-VENKATA-SAI-LAKSHMI&style=flat-square&color=0088cc)
 
-I'm Artificial Intelligence Enthusiast! Graduate 🎓 from VIIT 🏛. I'm a passionate about building real-time products to resolve Real-time Problems from Cutting Edge Technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Mentor newbies  👨🏻‍💻. Yeah!! Currently Sharppening my Backend Skills in Web Development 🕸️ and working on Optimizing Products!! 🤓.
+I'm Artificial Intelligence Enthusiast! Graduate 🎓 from VIIT 🏛. I'm  passionate about building real-time products to resolve Real-time Problems from Cutting Edge Technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Mentor newbies  👨🏻‍💻. Yeah!! Currently Sharppening my Backend Skills in Web Development 🕸️ and working on Optimizing Products!! 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/KONA-VENKATA-SAI-LAKSHMI/KONA-VENKATA-SAI-LAKSHMI/blob/main/Say%20Hi!.png" />
 
