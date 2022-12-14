@@ -102,8 +102,8 @@ I'm Artificial Intelligence Enthusiast! 2K20 Graduate 🎓 from VIIT 🏛. I'm  
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> DELL (i5)</li>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Laptop: </b> Lenovo Thinkpad (i7)</li>
   	    <li><b>Browser: </b> Firefox Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Linkedin</li>
