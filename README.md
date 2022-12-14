@@ -2,7 +2,7 @@
 
 ## Hyy!! Developers 👋, I'm [KONA VENKATA SAI LAKSHMI!](https://github.com/KONA-VENKATA-SAI-LAKSHMI)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kona-venkata-sai-lakshmi-938842154/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/venkat_sai_lucky/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kona_girl_kvsl/)
 <a href="https://medium.com/@venkatasailakshmi7">
   <img  alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
@@ -13,7 +13,7 @@
 
 ### Are you Artificial Intelligence Enthusiast? Cool! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KONA-VENKATA-SAI-LAKSHMI.KONA-VENKATA-SAI-LAKSHMI&style=flat-square&color=0088cc)
 
-I'm Artificial Intelligence Enthusiast! Graduate 🎓 from VIIT 🏛. I'm  passionate about building real-time products to resolve Real-time Problems from Cutting Edge Technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Mentor newbies  👨🏻‍💻. Yeah!! Currently Sharppening my Backend Skills in Web Development 🕸️ and working on Optimizing Products!! 🤓.
+I'm Artificial Intelligence Enthusiast! 2K20 Graduate 🎓 from VIIT 🏛. I'm  passionate about building real-time products to resolve Real-time Problems from Cutting Edge Technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Mentor newbies  👨🏻‍💻. Yeah!! Currently Sharppening my Backend Skills in Web Development 🕸️ and working on Optimizing Products!! 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/KONA-VENKATA-SAI-LAKSHMI/KONA-VENKATA-SAI-LAKSHMI/blob/main/Say%20Hi!.png" />
 
