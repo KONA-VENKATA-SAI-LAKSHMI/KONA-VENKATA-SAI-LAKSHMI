@@ -2,7 +2,7 @@
 
 ## Hyy!! Developers 👋, I'm [KONA VENKATA SAI LAKSHMI!](https://github.com/KONA-VENKATA-SAI-LAKSHMI)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kona-venkata-sai-lakshmi-938842154/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kona_girl_kvsl/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/decode_kvsl/)
 <a href="https://medium.com/@venkatasailakshmi7">
   <img  alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
